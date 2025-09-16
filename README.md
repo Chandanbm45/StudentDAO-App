@@ -35,22 +35,7 @@ StudentDAO-App/
 │── pom.xml # Maven build file (if using Maven)
 
 ---
-⚡ Getting Started
 
-1. Clone the Repository
-```bash
-git clone https://github.com/Chandanbm45/StudentDAO-App.git
-cd StudentDAO-App
-
-2. Open in IDE
-Open the project in Eclipse or IntelliJ IDEA.
-
-Make sure JDK 8+ is installed.
-
-3. Run the Project
-Locate the Main class inside the main package.
-
-Run the program as Java Application.
 
 🎯 Usage
 When you run the app, a menu-driven interface will appear.
@@ -82,5 +67,26 @@ Add a GUI/Frontend.
 
 Implement Spring Boot + Hibernate for enterprise-level scalability.
 
+⚡ Getting Started
+
+1. Clone the Repository
+```bash
+git clone https://github.com/Chandanbm45/StudentDAO-App.git
+cd StudentDAO-App
+
+2. Open in IDE
+Open the project in Eclipse or IntelliJ IDEA.
+
+Make sure JDK 8+ is installed.
+
+3. Run the Project
+Locate the Main class inside the main package.
+
+Run the program as Java Application.
+
+-----
+
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
