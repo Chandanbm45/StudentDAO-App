@@ -63,7 +63,7 @@ Exit the app
 📌 Future Enhancements
 Connect to a real database (MySQL, PostgreSQL).
 
-Add a GUI/Frontend.
+Add a Frontend.
 
 Implement Spring Boot + Hibernate for enterprise-level scalability.
 
